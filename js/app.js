@@ -2,7 +2,7 @@
 
 
 
-//shows Search Box and Nano gallery when js is not disabled
+//shows Search Box and gallery when js is not disabled
 $("#search").fadeIn(1400);
 $("#myLightGallery").fadeIn(1800);
 
