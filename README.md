@@ -57,7 +57,7 @@ I struggled with the search functionality. I honestly just winged it and went mo
 To replace all jQuery with Vanilla JavaScript.
 
 ### Resources
-The resource I used for my lightbox plug in was [lightGallery](https://www.lightgalleryjs.com/)
+The resource I used for my lightbox plugin was [lightGallery](https://www.lightgalleryjs.com/)
 
 ## Author
 - Team Treehouse - [samanthaatkinson](https://www.teamtreehouse.com/samanthaatkinson)
