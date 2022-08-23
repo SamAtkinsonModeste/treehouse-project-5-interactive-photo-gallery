@@ -13,8 +13,7 @@ An Interactive Photo Gallery with photo caption search functionality.
 - [Process](#my-process) 
   - [Technologies used](#technologies-used) 
   - [What I learned](#what-i-learned) 
-  - [Continued development](#continued-development) 
-  - [Useful resources](#useful-resources) 
+  - [Continued development](#continued-development)  
 - [Author](#author) 
 - [Acknowledgments](#acknowledgments) 
 
@@ -32,3 +31,38 @@ Users should be able to:
 ### Screenshot of my project 5 desktop
 ![](img/project-5.jpg)
 
+### Live Link
+- Live Site URL: [Project 5 An Interactive Photo Gallery
+](https://samatkinsonmodeste.github.io/treehouse-project-5-interactive-photo-gallery/)
+
+## My Process
+
+### Technologies used
+
+- Semantic HTML5 markup
+- Flexbox
+- Mobile-first layout
+- jQuery
+- JavaScript
+- [lightbox](https://www.lightgalleryjs.com/demos/thumbnails/) - JS Plugin
+
+
+### What I learned
+This was my first project using JavaScript, and I was very nervous. To my surprise, I found a gallery plugin for myself and understood the documentation to implement the plugin. I loved experimenting with all the different settings or customising.
+I loved working with jQuery and found the first couple of lines using the *fadein, fadeout and hide methods* very easy to get the desired effects.
+I struggled with the search functionality. I honestly just winged it and went more with instincts and trial and error.🤣
+
+### Continued Development
+To replace all jQuery with Vanilla JavaScript.
+
+## Author
+- Team Treehouse - [samanthaatkinson](https://www.teamtreehouse.com/samanthaatkinson)
+- Twitter - [@sammodeste1](https://www.twitter.com/@sammodeste1)
+- LinkedIn - [sam-atkinson-modeste](https://www.linkedin.com/<<sam-atkinson-modeste>>)
+- GitHub - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
+
+
+## Acknowledgments
+I passed this project with **Exceeds Expectations**. I did add a lot of additional styling and the reviewer was very kind wih their final comments. A final comment like below is what helps build your confidence on this learning journey.
+### Reviwer's Final Comment
+*Phenomenal job on this first JavaScript project! You have shown a deep understanding of manipulating HTML DOM elements using JavaScript/jQuery, and installing 3rd party libraries and plugins! OUTSTANDING job with all the extra styles, animations, and favicon addition! Keep up the good work and happy coding!*
