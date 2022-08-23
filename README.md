@@ -13,7 +13,8 @@ An Interactive Photo Gallery with photo caption search functionality.
 - [Process](#my-process) 
   - [Technologies used](#technologies-used) 
   - [What I learned](#what-i-learned) 
-  - [Continued development](#continued-development)  
+  - [Continued development](#continued-development) 
+  - [Resource](#resource) 
 - [Author](#author) 
 - [Acknowledgments](#acknowledgments) 
 
@@ -44,7 +45,7 @@ Users should be able to:
 - Mobile-first layout
 - jQuery
 - JavaScript
-- [lightbox](https://www.lightgalleryjs.com/demos/thumbnails/) - JS Plugin
+- lightbox - JS Plugin
 
 
 ### What I learned
@@ -55,6 +56,9 @@ I struggled with the search functionality. I honestly just winged it and went mo
 ### Continued Development
 To replace all jQuery with Vanilla JavaScript.
 
+### Resources
+The resource I used for my lightbox plug in was [lightGallery](https://www.lightgalleryjs.com/)
+
 ## Author
 - Team Treehouse - [samanthaatkinson](https://www.teamtreehouse.com/samanthaatkinson)
 - Twitter - [@sammodeste1](https://www.twitter.com/@sammodeste1)
@@ -63,6 +67,7 @@ To replace all jQuery with Vanilla JavaScript.
 
 
 ## Acknowledgments
-I passed this project with **Exceeds Expectations**. I did add a lot of additional styling and the reviewer was very kind wih their final comments. A final comment like below is what helps build your confidence on this learning journey.
-### Reviwer's Final Comment
+I passed this project with **Exceeds Expectations**. I did add a lot of additional styling, and the reviewer was very kind with their final comments. A final comment like the below is what helps build your confidence on this learning journey.
+### Reviewer's Final Comment
 *Phenomenal job on this first JavaScript project! You have shown a deep understanding of manipulating HTML DOM elements using JavaScript/jQuery, and installing 3rd party libraries and plugins! OUTSTANDING job with all the extra styles, animations, and favicon addition! Keep up the good work and happy coding!*
+
