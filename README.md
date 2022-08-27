@@ -1,4 +1,4 @@
-# ![](img/treehouse.png) Team Treehouse - Project 5 - An Interactive Photo Gallery
+# ![](img/treehouse.png) Team Treehouse - An Interactive Photo Gallery
 
 This is my fifth project for the [Front End Web Development Techdegree at Treehouse](https://teamtreehouse.com/techdegree/front-end-web-development).
 
